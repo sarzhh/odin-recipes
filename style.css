@@ -1,0 +1,43 @@
+.body{
+    background-color: rgb(116, 80, 80);
+    text-align: center;
+}
+.recipes{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+li{
+    margin: 50px;
+}
+.page{
+    background-color: burlywood;
+    margin: 50px;
+    text-align: center;
+}
+h1{
+
+    border-bottom: 5px solid black;
+}
+.h3{
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+}
+
+p{
+    text-align: left;
+    margin-left: 45px;
+}
+ul{
+    text-align: left;
+}
+li{
+    margin: 0;
+}
+ol{
+    text-align: left;
+}
